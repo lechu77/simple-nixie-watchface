@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
 set -e
 
-# Simple Nixie Garmin Connect IQ Watch Face Build Script
-# Target SDK: Connect IQ SDK 9.2
-# Primary Target: Garmin Fenix 8 AMOLED (fenix8pro47mm)
+# REACTOR Garmin Connect IQ Watch Face Release Script
+# Builds an .iq package for upload to the Connect IQ Store
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
@@ -23,45 +22,50 @@ else
         if [ -n "$LATEST_SDK" ]; then
             MONKEYC="$LATEST_SDK"
         else
-            echo "Error: monkeyc compiler not found. Please install Connect IQ SDK 9.2."
+            echo "Error: monkeyc compiler not found."
             exit 1
         fi
     fi
 fi
 
-# Check for developer key (optional for local testing, required for export)
+# Ensure developer key is provided or exists
 DEFAULT_KEY="/Users/z0051syf/workspace/Lechu/Garmin/lechu-developer_key.der"
-KEY_FILE="${2:-$DEFAULT_KEY}"
-KEY_FLAG=""
-if [ -f "$KEY_FILE" ]; then
-    KEY_FLAG="-y $KEY_FILE"
-else
-    echo "Notice: No developer key found/provided. Building without signing (sufficient for simulator)."
+KEY_FILE="${1:-$DEFAULT_KEY}"
+
+if [ -z "$KEY_FILE" ]; then
+    echo "Error: You must provide the path to your developer_key.der!"
+    echo "Usage: ./scripts/release.sh /path/to/your/developer_key.der"
+    exit 1
 fi
 
-DEVICE="${1:-fenix8pro47mm}"
+if [ ! -f "$KEY_FILE" ]; then
+    echo "Error: Developer key not found at $KEY_FILE!"
+    exit 1
+fi
+
 PROJECT_NAME=$(basename "$PROJECT_ROOT")
 DEFAULT_OUT="/Users/z0051syf/workspace/Lechu/Garmin/$PROJECT_NAME"
-OUTPUT_DIR="${3:-$DEFAULT_OUT}"
-OUTPUT_PRG="$OUTPUT_DIR/${PROJECT_NAME}.prg"
+OUTPUT_DIR="${2:-$DEFAULT_OUT}"
+OUTPUT_IQ="$OUTPUT_DIR/${PROJECT_NAME}.iq"
 
 mkdir -p "$OUTPUT_DIR"
 
-echo "Building Simple Nixie watch face..."
+echo "Building release package (reactor.iq) for Connect IQ Store..."
 echo "  Compiler: $MONKEYC"
-echo "  Target Device: $DEVICE"
-echo "  Output: $OUTPUT_PRG"
+echo "  Output: $OUTPUT_IQ"
 
 "$MONKEYC" \
     -f monkey.jungle \
-    -o "$OUTPUT_PRG" \
-    -d "$DEVICE" \
-    $KEY_FLAG \
+    -o "$OUTPUT_IQ" \
+    -y "$KEY_FILE" \
+    -e \
     -w \
-    -l 3
+    -l 3 \
+    -r
 
-if [ -f "$OUTPUT_PRG" ]; then
-    echo "Build successful! Binary created at: $OUTPUT_PRG"
+if [ -f "$OUTPUT_IQ" ]; then
+    echo "Release build successful! Package created at: $OUTPUT_IQ"
+    echo "You can now upload this file to the Garmin Connect IQ Developer Dashboard."
 else
     echo "Build failed!"
     exit 1

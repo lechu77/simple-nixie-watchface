@@ -14,3 +14,8 @@ This file records hard-won lessons, quirks, and decisions that are easy to forge
 ### Rendering Decisions
 - **Zero Allocations:** No `new` objects should be created during `onUpdate()`.
 - **AOD Implementation:** Backgrounds and thick widgets violate AOD 10% pixel limits. Hide them in `if (_isAod)` and apply a random offset `(clockTime.min % X)` to the remaining items for burn-in protection.
+
+### Build Scripts & Distribution
+- **Output Path:** The `build.sh` and `release.sh` scripts are configured to output compiled `.prg` and signed `.iq` files to an external directory: `/Users/z0051syf/workspace/Lechu/Garmin/simple-nixie-watchface/` (instead of the local `bin/` directory).
+- `sim.sh` will also load the watchface binary from this external path.
+- Remember this path if you need to reference the built files directly!
