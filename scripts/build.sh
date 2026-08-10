@@ -41,29 +41,31 @@ fi
 
 DEVICE="${1:-fenix8pro47mm}"
 PROJECT_NAME=$(basename "$PROJECT_ROOT")
-DEFAULT_OUT="/Users/z0051syf/workspace/Lechu/Garmin/$PROJECT_NAME"
-OUTPUT_DIR="${3:-$DEFAULT_OUT}"
-OUTPUT_PRG="$OUTPUT_DIR/${PROJECT_NAME}.prg"
+OUTPUT_DIR="${3:-bin}"
+LOCAL_PRG="bin/${PROJECT_NAME}.prg"
 
-mkdir -p "$OUTPUT_DIR"
+mkdir -p bin
 
 echo "Building Simple Nixie watch face..."
 echo "  Compiler: $MONKEYC"
 echo "  Target Device: $DEVICE"
-echo "  Output: $OUTPUT_PRG"
+echo "  Output: $LOCAL_PRG"
 
 "$MONKEYC" \
     -f monkey.jungle \
-    -o "$OUTPUT_PRG" \
+    -o "$LOCAL_PRG" \
     -d "$DEVICE" \
     $KEY_FLAG \
     -w \
     -l 3
 
-if [ -f "$OUTPUT_PRG" ]; then
-    echo "Build successful! Binary created at: $OUTPUT_PRG"
-    # Clean up Garmin compiler junk files
-    rm -f "$OUTPUT_DIR"/*.json "$OUTPUT_DIR"/*.xml 2>/dev/null || true
+if [ -f "$LOCAL_PRG" ]; then
+    echo "Build successful! Binary created at: $LOCAL_PRG"
+    if [ "$OUTPUT_DIR" != "bin" ]; then
+        mkdir -p "$OUTPUT_DIR"
+        cp "$LOCAL_PRG" "$OUTPUT_DIR/"
+        echo "Binary copied to: $OUTPUT_DIR/${PROJECT_NAME}.prg"
+    fi
 else
     echo "Build failed!"
     exit 1

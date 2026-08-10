@@ -44,30 +44,32 @@ if [ ! -f "$KEY_FILE" ]; then
 fi
 
 PROJECT_NAME=$(basename "$PROJECT_ROOT")
-DEFAULT_OUT="/Users/z0051syf/workspace/Lechu/Garmin/$PROJECT_NAME"
-OUTPUT_DIR="${2:-$DEFAULT_OUT}"
-OUTPUT_IQ="$OUTPUT_DIR/${PROJECT_NAME}.iq"
+OUTPUT_DIR="${2:-bin}"
+LOCAL_IQ="bin/${PROJECT_NAME}.iq"
 
-mkdir -p "$OUTPUT_DIR"
+mkdir -p bin
 
 echo "Building release package (${PROJECT_NAME}.iq) for Connect IQ Store..."
 echo "  Compiler: $MONKEYC"
-echo "  Output: $OUTPUT_IQ"
+echo "  Output: $LOCAL_IQ"
 
 "$MONKEYC" \
     -f monkey.jungle \
-    -o "$OUTPUT_IQ" \
+    -o "$LOCAL_IQ" \
     -y "$KEY_FILE" \
     -e \
     -w \
     -l 3 \
     -r
 
-if [ -f "$OUTPUT_IQ" ]; then
-    echo "Release build successful! Package created at: $OUTPUT_IQ"
+if [ -f "$LOCAL_IQ" ]; then
+    echo "Release build successful! Package created at: $LOCAL_IQ"
+    if [ "$OUTPUT_DIR" != "bin" ]; then
+        mkdir -p "$OUTPUT_DIR"
+        cp "$LOCAL_IQ" "$OUTPUT_DIR/"
+        echo "Package copied to: $OUTPUT_DIR/${PROJECT_NAME}.iq"
+    fi
     echo "You can now upload this file to the Garmin Connect IQ Developer Dashboard."
-    # Clean up Garmin compiler junk files
-    rm -f "$OUTPUT_DIR"/*.json "$OUTPUT_DIR"/*.xml 2>/dev/null || true
 else
     echo "Build failed!"
     exit 1
