@@ -13,13 +13,18 @@ if [[ -z "$THEME" ]]; then
     echo "  ║  Uso: ./scripts/set_theme.sh <número>    ║"
     echo "  ╠══════════════════════════════════════════╣"
     echo "  ║  0 = Nixie (Default)                     ║"
+    echo "  ║  1 = Cyan                                ║"
+    echo "  ║  2 = Green                               ║"
+    echo "  ║  3 = Amber                               ║"
+    echo "  ║  4 = White                               ║"
+    echo "  ║  5 = Siemens                             ║"
     echo "  ╚══════════════════════════════════════════╝"
     echo ""
     exit 0
 fi
 
-if [[ "$THEME" -ne 0 ]]; then
-    echo "Error: por ahora solo se soporta el tema 0."
+if [[ "$THEME" -lt 0 || "$THEME" -gt 5 ]]; then
+    echo "Error: theme must be between 0 and 5."
     exit 1
 fi
 
