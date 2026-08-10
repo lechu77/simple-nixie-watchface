@@ -1,0 +1,92 @@
+[ @file = "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc"; @line = 1; @symbol_importdef<0> = [Toybox,1,7,13]; @symbol_importdef<1> = [Application,1,14,25]; ]
+import Toybox.Application;
+[ @file = "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc"; @line = 2; @symbol_importdef<0> = [Toybox,2,7,13]; @symbol_importdef<1> = [Lang,2,14,18]; ]
+import Toybox.Lang;
+[ @file = "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc"; @line = 3; @symbol_importdef<0> = [Toybox,3,7,13]; @symbol_importdef<1> = [WatchUi,3,14,21]; ]
+import Toybox.WatchUi;
+[ @file = "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc"; @line = 5; @symbol_classdef = [SimpleNixieApp,5,6,20]; @symbol_extends<0> = [Application,5,29,40]; @symbol_extends<1> = [AppBase,5,41,48]; ]
+class SimpleNixieApp extends Application.AppBase {
+    [ @file = "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc"; @line = 5; ]
+    <init> {
+    }
+    [ @file = "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc"; @line = 5; ]
+    static
+    <init> {
+    }
+    [ @file = "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc"; @line = 7; @symbol_functiondef = [initialize,7,13,23]; ]
+    function initialize() as Void {
+_Users_z0051syf_Library_CloudStorage_OneDrive_SiemensAG_Lechu_workspace_Lechu_GitHub_Lechu77_simple_nixie_watchface_source_SimpleNixieApp_mc_7_26_9_4_start:
+[ "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" 8 8 ]
+        symbol [ AppBase %tmp.2 8 8 15 ];
+        %tmp.2 = getv ? :AppBase;
+        symbol [ initialize %tmp.3 8 16 26 ];
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+_Users_z0051syf_Library_CloudStorage_OneDrive_SiemensAG_Lechu_workspace_Lechu_GitHub_Lechu77_simple_nixie_watchface_source_SimpleNixieApp_mc_7_26_9_4_stop:
+    }
+    [ @file = "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc"; @line = 12; @symbol_functiondef = [onStart,12,13,20]; @symbol_param<0> = [state,12,21,26]; @symbol_param<0>_type<0> = [Dictionary,12,30,40]; ]
+    function onStart(state as Dictionary or Null) as Void {
+    }
+    [ @file = "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc"; @line = 16; @symbol_functiondef = [onStop,16,13,19]; @symbol_param<0> = [state,16,20,25]; @symbol_param<0>_type<0> = [Dictionary,16,29,39]; ]
+    function onStop(state as Dictionary or Null) as Void {
+    }
+    [ @file = "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc"; @line = 20; @symbol_functiondef = [getInitialView,20,13,27]; @symbol_return<0> = [WatchUi,20,34,41]; @symbol_return<1> = [Views,20,42,47]; @symbol_return<2> = [WatchUi,20,53,60]; @symbol_return<3> = [Views,20,61,66]; @symbol_return<4> = [WatchUi,20,68,75]; @symbol_return<5> = [InputDelegates,20,76,90]; ]
+    function getInitialView() as [WatchUi.Views] or [WatchUi.Views, WatchUi.InputDelegates] {
+_Users_z0051syf_Library_CloudStorage_OneDrive_SiemensAG_Lechu_workspace_Lechu_GitHub_Lechu77_simple_nixie_watchface_source_SimpleNixieApp_mc_20_92_22_4_start:
+[ "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" 21 8 ]
+        %tmp.1 = newa 1;
+        symbol [ SimpleNixieView %tmp.5 21 21 36 ];
+        %tmp.5 = getv ? :SimpleNixieView;
+        %tmp.2 = newc %tmp.5 ();
+        %tmp.6 = dup %tmp.1;
+        %tmp.7 = aputv %tmp.6 0 %tmp.2;
+        ret %tmp.7;
+_Users_z0051syf_Library_CloudStorage_OneDrive_SiemensAG_Lechu_workspace_Lechu_GitHub_Lechu77_simple_nixie_watchface_source_SimpleNixieApp_mc_20_92_22_4_stop:
+    }
+    [ @file = "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc"; @line = 25; @symbol_functiondef = [onSettingsChanged,25,13,30]; ]
+    function onSettingsChanged() as Void {
+_Users_z0051syf_Library_CloudStorage_OneDrive_SiemensAG_Lechu_workspace_Lechu_GitHub_Lechu77_simple_nixie_watchface_source_SimpleNixieApp_mc_25_41_27_4_start:
+[ "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" 26 8 ]
+        symbol [ WatchUi %tmp.1 26 8 15 ];
+        %tmp.1 = getm $.Toybox.WatchUi;
+        symbol [ requestUpdate %tmp.2 26 16 29 ];
+        %tmp.2 = getv function %tmp.1 :requestUpdate;
+        invoke %tmp.1 %tmp.2();
+_Users_z0051syf_Library_CloudStorage_OneDrive_SiemensAG_Lechu_workspace_Lechu_GitHub_Lechu77_simple_nixie_watchface_source_SimpleNixieApp_mc_25_41_27_4_stop:
+    }
+    [ @file = "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc"; @line = 30; @symbol_functiondef = [getSettingsView,30,13,28]; @symbol_return<0> = [WatchUi,30,35,42]; @symbol_return<1> = [Views,30,43,48]; @symbol_return<2> = [WatchUi,30,54,61]; @symbol_return<3> = [Views,30,62,67]; @symbol_return<4> = [WatchUi,30,69,76]; @symbol_return<5> = [InputDelegates,30,77,91]; ]
+    function getSettingsView() as [WatchUi.Views] or [WatchUi.Views, WatchUi.InputDelegates] or Null {
+_Users_z0051syf_Library_CloudStorage_OneDrive_SiemensAG_Lechu_workspace_Lechu_GitHub_Lechu77_simple_nixie_watchface_source_SimpleNixieApp_mc_30_101_32_4_start:
+[ "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" 31 8 ]
+        %tmp.1 = newa 2;
+        symbol [ SimpleNixieSettingsMenu %tmp.5 31 21 44 ];
+        %tmp.5 = getv ? :SimpleNixieSettingsMenu;
+        %tmp.2 = newc %tmp.5 ();
+        %tmp.6 = dup %tmp.1;
+        %tmp.7 = aputv %tmp.6 0 %tmp.2;
+        symbol [ SimpleNixieSettingsDelegate %tmp.11 31 52 79 ];
+        %tmp.11 = getv ? :SimpleNixieSettingsDelegate;
+        %tmp.8 = newc %tmp.11 ();
+        %tmp.12 = dup %tmp.7;
+        %tmp.13 = aputv %tmp.12 1 %tmp.8;
+        ret %tmp.13;
+_Users_z0051syf_Library_CloudStorage_OneDrive_SiemensAG_Lechu_workspace_Lechu_GitHub_Lechu77_simple_nixie_watchface_source_SimpleNixieApp_mc_30_101_32_4_stop:
+    }
+}
+[ @file = "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc"; @line = 35; @symbol_functiondef = [getApp,35,9,15]; @symbol_return<0> = [SimpleNixieApp,35,21,35]; ]
+function getApp() as SimpleNixieApp {
+_Users_z0051syf_Library_CloudStorage_OneDrive_SiemensAG_Lechu_workspace_Lechu_GitHub_Lechu77_simple_nixie_watchface_source_SimpleNixieApp_mc_35_36_37_0_start:
+[ "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" 36 4 ]
+    symbol [ Application %tmp.1 36 11 22 ];
+    %tmp.1 = getm $.Toybox.Application;
+    symbol [ getApp %tmp.2 36 23 29 ];
+    %tmp.2 = getv function %tmp.1 :getApp;
+    %tmp.3 = invoke %tmp.1 %tmp.2();
+    %tmp.4 = as %tmp.3 SimpleNixieApp;
+    symbol [ SimpleNixieApp %tmp.4 36 35 49 ];
+    ret %tmp.4;
+_Users_z0051syf_Library_CloudStorage_OneDrive_SiemensAG_Lechu_workspace_Lechu_GitHub_Lechu77_simple_nixie_watchface_source_SimpleNixieApp_mc_35_36_37_0_stop:
+}
+[ @file = "/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc"; @line = 1; ]
+<init> {
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string id="AppName">Simple Nixie</string>
+
+    <string id="ShowBatteryTitle">Show Battery</string>
+    <string id="ShowDateTitle">Show Date</string>
+    <string id="ShowGraphsTitle">Show Graphs</string>
+    
+    <string id="Graph1MetricTitle">Left Graph</string>
+    <string id="Graph2MetricTitle">Right Graph</string>
+    
+    <string id="MetricOff">Off</string>
+    <string id="MetricHR">Heart Rate</string>
+    <string id="MetricElev">Elevation</string>
+    <string id="MetricPress">Pressure</string>
+    <string id="MetricTemp">Temperature</string>
+    <string id="MetricBodyBat">Body Battery</string>
+    <string id="MetricStress">Stress</string>
+    <string id="MetricPulseOx">Pulse Ox</string>
+</resources>

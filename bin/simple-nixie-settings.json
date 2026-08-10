@@ -1,0 +1,177 @@
+{
+  "settings" : [ {
+    "key" : "showBattery",
+    "valueType" : "boolean",
+    "defaultValue" : true,
+    "configTitle" : "ShowBatteryTitle",
+    "configPrompt" : null,
+    "configType" : "boolean",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : null,
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  }, {
+    "key" : "showDate",
+    "valueType" : "boolean",
+    "defaultValue" : true,
+    "configTitle" : "ShowDateTitle",
+    "configPrompt" : null,
+    "configType" : "boolean",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : null,
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  }, {
+    "key" : "showGraphs",
+    "valueType" : "boolean",
+    "defaultValue" : true,
+    "configTitle" : "ShowGraphsTitle",
+    "configPrompt" : null,
+    "configType" : "boolean",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : null,
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  }, {
+    "key" : "graph1Metric",
+    "valueType" : "number",
+    "defaultValue" : 1,
+    "configTitle" : "Graph1MetricTitle",
+    "configPrompt" : null,
+    "configType" : "list",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : [ {
+      "display" : "MetricOff",
+      "value" : 0
+    }, {
+      "display" : "MetricHR",
+      "value" : 1
+    }, {
+      "display" : "MetricElev",
+      "value" : 2
+    }, {
+      "display" : "MetricPress",
+      "value" : 3
+    }, {
+      "display" : "MetricTemp",
+      "value" : 4
+    }, {
+      "display" : "MetricBodyBat",
+      "value" : 5
+    }, {
+      "display" : "MetricStress",
+      "value" : 6
+    }, {
+      "display" : "MetricPulseOx",
+      "value" : 7
+    } ],
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  }, {
+    "key" : "graph2Metric",
+    "valueType" : "number",
+    "defaultValue" : 2,
+    "configTitle" : "Graph2MetricTitle",
+    "configPrompt" : null,
+    "configType" : "list",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : [ {
+      "display" : "MetricOff",
+      "value" : 0
+    }, {
+      "display" : "MetricHR",
+      "value" : 1
+    }, {
+      "display" : "MetricElev",
+      "value" : 2
+    }, {
+      "display" : "MetricPress",
+      "value" : 3
+    }, {
+      "display" : "MetricTemp",
+      "value" : 4
+    }, {
+      "display" : "MetricBodyBat",
+      "value" : 5
+    }, {
+      "display" : "MetricStress",
+      "value" : 6
+    }, {
+      "display" : "MetricPulseOx",
+      "value" : 7
+    } ],
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  } ],
+  "supportsLiveValidation" : false,
+  "languages" : {
+    "spa" : {
+      "Graph2MetricTitle" : "Gráfico Derecho",
+      "MetricOff" : "Apagado",
+      "MetricHR" : "Frecuencia Cardíaca",
+      "MetricTemp" : "Temperatura",
+      "MetricPulseOx" : "Pulsioximetría",
+      "MetricStress" : "Estrés",
+      "MetricElev" : "Elevación",
+      "AppName" : "Simple Nixie",
+      "ShowBatteryTitle" : "Mostrar Batería",
+      "MetricPress" : "Presión",
+      "Graph1MetricTitle" : "Gráfico Izquierdo",
+      "MetricBodyBat" : "Body Battery",
+      "ShowDateTitle" : "Mostrar Fecha",
+      "ShowGraphsTitle" : "Mostrar Gráficos"
+    },
+    "valyrian" : {
+      "Graph2MetricTitle" : "Right Graph",
+      "MetricOff" : "Off",
+      "MetricHR" : "Heart Rate",
+      "MetricTemp" : "Temperature",
+      "MetricPulseOx" : "Pulse Ox",
+      "MetricStress" : "Stress",
+      "MetricElev" : "Elevation",
+      "AppName" : "Simple Nixie",
+      "ShowBatteryTitle" : "Show Battery",
+      "MetricPress" : "Pressure",
+      "Graph1MetricTitle" : "Left Graph",
+      "MetricBodyBat" : "Body Battery",
+      "ShowDateTitle" : "Show Date",
+      "ShowGraphsTitle" : "Show Graphs"
+    },
+    "eng" : {
+      "Graph2MetricTitle" : "Right Graph",
+      "MetricOff" : "Off",
+      "MetricHR" : "Heart Rate",
+      "MetricTemp" : "Temperature",
+      "MetricPulseOx" : "Pulse Ox",
+      "MetricStress" : "Stress",
+      "MetricElev" : "Elevation",
+      "AppName" : "Simple Nixie",
+      "ShowBatteryTitle" : "Show Battery",
+      "MetricPress" : "Pressure",
+      "Graph1MetricTitle" : "Left Graph",
+      "MetricBodyBat" : "Body Battery",
+      "ShowDateTitle" : "Show Date",
+      "ShowGraphsTitle" : "Show Graphs"
+    }
+  }
+}

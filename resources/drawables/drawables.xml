@@ -1,0 +1,14 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="BgImage" filename="bg.png" />
+    <bitmap id="Nixie0" filename="nixie/0.png" />
+    <bitmap id="Nixie1" filename="nixie/1.png" />
+    <bitmap id="Nixie2" filename="nixie/2.png" />
+    <bitmap id="Nixie3" filename="nixie/3.png" />
+    <bitmap id="Nixie4" filename="nixie/4.png" />
+    <bitmap id="Nixie5" filename="nixie/5.png" />
+    <bitmap id="Nixie6" filename="nixie/6.png" />
+    <bitmap id="Nixie7" filename="nixie/7.png" />
+    <bitmap id="Nixie8" filename="nixie/8.png" />
+    <bitmap id="Nixie9" filename="nixie/9.png" />
+</drawables>

@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="1" lineNum="112" parent="globals/MetricPickerMenu" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" id="2" lineNum="5" parent="globals/SimpleNixieApp" pc="268435472" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" id="3" lineNum="35" parent="globals" pc="268435484" symbol="getApp"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" id="3" lineNum="36" parent="globals" pc="268435494" symbol="getApp"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="4" lineNum="11" parent="globals/SimpleNixieView" pc="268435505" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="4" lineNum="12" parent="globals/SimpleNixieView" pc="268435516" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/bin/gen/006-B4631-00/source/Rez.mcgen" id="5" lineNum="7" parent="globals/Rez" pc="268435527" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="58" parent="globals" pc="268435547" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="59" parent="globals" pc="268435558" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="60" parent="globals" pc="268435576" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="61" parent="globals" pc="268435578" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="62" parent="globals" pc="268435593" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="63" parent="globals" pc="268435609" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="64" parent="globals" pc="268435625" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="65" parent="globals" pc="268435641" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="66" parent="globals" pc="268435657" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="67" parent="globals" pc="268435673" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="68" parent="globals" pc="268435689" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="61" parent="globals" pc="268435708" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="61" parent="globals" pc="268435726" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="62" parent="globals" pc="268435729" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="62" parent="globals" pc="268435747" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="63" parent="globals" pc="268435750" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="63" parent="globals" pc="268435768" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="64" parent="globals" pc="268435771" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="64" parent="globals" pc="268435789" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="65" parent="globals" pc="268435792" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="65" parent="globals" pc="268435810" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="66" parent="globals" pc="268435813" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="66" parent="globals" pc="268435831" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="67" parent="globals" pc="268435834" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="67" parent="globals" pc="268435852" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="68" parent="globals" pc="268435855" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="68" parent="globals" pc="268435873" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="6" lineNum="70" parent="globals" pc="268435877" symbol="getMetricName"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="7" lineNum="74" parent="globals/SimpleNixieSettingsDelegate" pc="268435892" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="8" lineNum="133" parent="globals/MetricPickerDelegate" pc="268435904" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="9" lineNum="6" parent="globals/SimpleNixieSettingsMenu" pc="268435916" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="10" lineNum="113" parent="globals/MetricPickerMenu" pc="268435928" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="10" lineNum="114" parent="globals/MetricPickerMenu" pc="268435931" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="10" lineNum="116" parent="globals/MetricPickerMenu" pc="268435958" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="10" lineNum="117" parent="globals/MetricPickerMenu" pc="268435961" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="10" lineNum="118" parent="globals/MetricPickerMenu" pc="268435976" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="10" lineNum="119" parent="globals/MetricPickerMenu" pc="268435992" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="10" lineNum="119" parent="globals/MetricPickerMenu" pc="268435998" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="10" lineNum="122" parent="globals/MetricPickerMenu" pc="268436008" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="10" lineNum="123" parent="globals/MetricPickerMenu" pc="268436077" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="10" lineNum="124" parent="globals/MetricPickerMenu" pc="268436148" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="10" lineNum="125" parent="globals/MetricPickerMenu" pc="268436219" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="10" lineNum="126" parent="globals/MetricPickerMenu" pc="268436290" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="10" lineNum="127" parent="globals/MetricPickerMenu" pc="268436361" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="10" lineNum="128" parent="globals/MetricPickerMenu" pc="268436432" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="10" lineNum="129" parent="globals/MetricPickerMenu" pc="268436503" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" id="11" lineNum="12" parent="globals/SimpleNixieApp" pc="268436575" symbol="onStart"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" id="12" lineNum="30" parent="globals/SimpleNixieApp" pc="268436578" symbol="getSettingsView"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" id="12" lineNum="31" parent="globals/SimpleNixieApp" pc="268436580" symbol="getSettingsView"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" id="13" lineNum="25" parent="globals/SimpleNixieApp" pc="268436627" symbol="onSettingsChanged"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" id="13" lineNum="26" parent="globals/SimpleNixieApp" pc="268436629" symbol="onSettingsChanged"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" id="14" lineNum="20" parent="globals/SimpleNixieApp" pc="268436641" symbol="getInitialView"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" id="14" lineNum="21" parent="globals/SimpleNixieApp" pc="268436643" symbol="getInitialView"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" id="15" lineNum="7" parent="globals/SimpleNixieApp" pc="268436669" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" id="15" lineNum="8" parent="globals/SimpleNixieApp" pc="268436671" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieApp.mc" id="16" lineNum="16" parent="globals/SimpleNixieApp" pc="268436684" symbol="onStop"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="213" parent="globals/SimpleNixieView" pc="268436687" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="214" parent="globals/SimpleNixieView" pc="268436690" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="214" parent="globals/SimpleNixieView" pc="268436697" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="216" parent="globals/SimpleNixieView" pc="268436701" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="217" parent="globals/SimpleNixieView" pc="268436704" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="218" parent="globals/SimpleNixieView" pc="268436719" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="219" parent="globals/SimpleNixieView" pc="268436747" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="220" parent="globals/SimpleNixieView" pc="268436773" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="221" parent="globals/SimpleNixieView" pc="268436801" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="222" parent="globals/SimpleNixieView" pc="268436827" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="223" parent="globals/SimpleNixieView" pc="268436855" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="224" parent="globals/SimpleNixieView" pc="268436881" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="225" parent="globals/SimpleNixieView" pc="268436909" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="226" parent="globals/SimpleNixieView" pc="268436935" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="227" parent="globals/SimpleNixieView" pc="268436963" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="228" parent="globals/SimpleNixieView" pc="268436989" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="229" parent="globals/SimpleNixieView" pc="268437017" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="230" parent="globals/SimpleNixieView" pc="268437043" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="231" parent="globals/SimpleNixieView" pc="268437071" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="235" parent="globals/SimpleNixieView" pc="268437100" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="17" lineNum="236" parent="globals/SimpleNixieView" pc="268437106" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="18" lineNum="293" parent="globals/SimpleNixieView" pc="268437133" symbol="onExitSleep"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="18" lineNum="294" parent="globals/SimpleNixieView" pc="268437135" symbol="onExitSleep"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="18" lineNum="295" parent="globals/SimpleNixieView" pc="268437143" symbol="onExitSleep"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="20" lineNum="21" parent="globals/SimpleNixieView" pc="268437155" symbol="onLayout"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="20" lineNum="22" parent="globals/SimpleNixieView" pc="268437157" symbol="onLayout"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="20" lineNum="24" parent="globals/SimpleNixieView" pc="268437195" symbol="onLayout"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="20" lineNum="25" parent="globals/SimpleNixieView" pc="268437233" symbol="onLayout"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="20" lineNum="26" parent="globals/SimpleNixieView" pc="268437272" symbol="onLayout"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="20" lineNum="27" parent="globals/SimpleNixieView" pc="268437311" symbol="onLayout"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="20" lineNum="28" parent="globals/SimpleNixieView" pc="268437350" symbol="onLayout"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="20" lineNum="29" parent="globals/SimpleNixieView" pc="268437389" symbol="onLayout"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="20" lineNum="30" parent="globals/SimpleNixieView" pc="268437428" symbol="onLayout"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="20" lineNum="31" parent="globals/SimpleNixieView" pc="268437467" symbol="onLayout"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="20" lineNum="32" parent="globals/SimpleNixieView" pc="268437506" symbol="onLayout"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="20" lineNum="33" parent="globals/SimpleNixieView" pc="268437545" symbol="onLayout"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="21" lineNum="298" parent="globals/SimpleNixieView" pc="268437585" symbol="onEnterSleep"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="21" lineNum="299" parent="globals/SimpleNixieView" pc="268437587" symbol="onEnterSleep"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="21" lineNum="300" parent="globals/SimpleNixieView" pc="268437595" symbol="onEnterSleep"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="240" parent="globals/SimpleNixieView" pc="268437607" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="241" parent="globals/SimpleNixieView" pc="268437610" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="241" parent="globals/SimpleNixieView" pc="268437616" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="243" parent="globals/SimpleNixieView" pc="268437620" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="244" parent="globals/SimpleNixieView" pc="268437627" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="245" parent="globals/SimpleNixieView" pc="268437634" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="246" parent="globals/SimpleNixieView" pc="268437639" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="249" parent="globals/SimpleNixieView" pc="268437642" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="250" parent="globals/SimpleNixieView" pc="268437651" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="251" parent="globals/SimpleNixieView" pc="268437668" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="252" parent="globals/SimpleNixieView" pc="268437677" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="253" parent="globals/SimpleNixieView" pc="268437683" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="254" parent="globals/SimpleNixieView" pc="268437686" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="254" parent="globals/SimpleNixieView" pc="268437701" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="255" parent="globals/SimpleNixieView" pc="268437708" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="255" parent="globals/SimpleNixieView" pc="268437723" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="256" parent="globals/SimpleNixieView" pc="268437736" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="257" parent="globals/SimpleNixieView" pc="268437743" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="257" parent="globals/SimpleNixieView" pc="268437751" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="258" parent="globals/SimpleNixieView" pc="268437758" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="258" parent="globals/SimpleNixieView" pc="268437766" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="259" parent="globals/SimpleNixieView" pc="268437773" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="261" parent="globals/SimpleNixieView" pc="268437783" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="265" parent="globals/SimpleNixieView" pc="268437795" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="266" parent="globals/SimpleNixieView" pc="268437811" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="268" parent="globals/SimpleNixieView" pc="268437831" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="268" parent="globals/SimpleNixieView" pc="268437839" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="270" parent="globals/SimpleNixieView" pc="268437843" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="271" parent="globals/SimpleNixieView" pc="268437850" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="271" parent="globals/SimpleNixieView" pc="268437857" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="273" parent="globals/SimpleNixieView" pc="268437867" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="275" parent="globals/SimpleNixieView" pc="268437881" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="276" parent="globals/SimpleNixieView" pc="268437891" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="278" parent="globals/SimpleNixieView" pc="268437924" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="279" parent="globals/SimpleNixieView" pc="268437936" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="280" parent="globals/SimpleNixieView" pc="268437949" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="282" parent="globals/SimpleNixieView" pc="268437983" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="284" parent="globals/SimpleNixieView" pc="268438001" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="285" parent="globals/SimpleNixieView" pc="268438025" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="22" lineNum="286" parent="globals/SimpleNixieView" pc="268438029" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="23" lineNum="16" parent="globals/SimpleNixieView" pc="268438044" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="23" lineNum="17" parent="globals/SimpleNixieView" pc="268438046" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="40" parent="globals/SimpleNixieView" pc="268438059" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="42" parent="globals/SimpleNixieView" pc="268438062" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="43" parent="globals/SimpleNixieView" pc="268438074" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="45" parent="globals/SimpleNixieView" pc="268438082" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="46" parent="globals/SimpleNixieView" pc="268438100" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="49" parent="globals/SimpleNixieView" pc="268438120" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="50" parent="globals/SimpleNixieView" pc="268438132" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="51" parent="globals/SimpleNixieView" pc="268438140" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="54" parent="globals/SimpleNixieView" pc="268438148" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="55" parent="globals/SimpleNixieView" pc="268438155" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="56" parent="globals/SimpleNixieView" pc="268438162" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="57" parent="globals/SimpleNixieView" pc="268438169" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="59" parent="globals/SimpleNixieView" pc="268438176" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="60" parent="globals/SimpleNixieView" pc="268438185" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="62" parent="globals/SimpleNixieView" pc="268438194" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="63" parent="globals/SimpleNixieView" pc="268438201" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="66" parent="globals/SimpleNixieView" pc="268438208" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="67" parent="globals/SimpleNixieView" pc="268438212" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="68" parent="globals/SimpleNixieView" pc="268438216" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="69" parent="globals/SimpleNixieView" pc="268438221" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="72" parent="globals/SimpleNixieView" pc="268438225" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="73" parent="globals/SimpleNixieView" pc="268438238" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="74" parent="globals/SimpleNixieView" pc="268438248" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="76" parent="globals/SimpleNixieView" pc="268438258" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="79" parent="globals/SimpleNixieView" pc="268438265" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="80" parent="globals/SimpleNixieView" pc="268438268" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="81" parent="globals/SimpleNixieView" pc="268438271" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="82" parent="globals/SimpleNixieView" pc="268438279" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="83" parent="globals/SimpleNixieView" pc="268438289" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="88" parent="globals/SimpleNixieView" pc="268438305" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="89" parent="globals/SimpleNixieView" pc="268438312" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="90" parent="globals/SimpleNixieView" pc="268438319" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="93" parent="globals/SimpleNixieView" pc="268438329" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="94" parent="globals/SimpleNixieView" pc="268438348" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="95" parent="globals/SimpleNixieView" pc="268438362" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="96" parent="globals/SimpleNixieView" pc="268438376" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="97" parent="globals/SimpleNixieView" pc="268438388" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="98" parent="globals/SimpleNixieView" pc="268438396" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="99" parent="globals/SimpleNixieView" pc="268438418" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="100" parent="globals/SimpleNixieView" pc="268438421" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="102" parent="globals/SimpleNixieView" pc="268438436" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="103" parent="globals/SimpleNixieView" pc="268438440" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="104" parent="globals/SimpleNixieView" pc="268438444" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="105" parent="globals/SimpleNixieView" pc="268438448" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="107" parent="globals/SimpleNixieView" pc="268438458" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="108" parent="globals/SimpleNixieView" pc="268438468" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="111" parent="globals/SimpleNixieView" pc="268438472" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="112" parent="globals/SimpleNixieView" pc="268438486" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="113" parent="globals/SimpleNixieView" pc="268438504" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="116" parent="globals/SimpleNixieView" pc="268438528" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="117" parent="globals/SimpleNixieView" pc="268438550" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="118" parent="globals/SimpleNixieView" pc="268438557" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="122" parent="globals/SimpleNixieView" pc="268438587" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="123" parent="globals/SimpleNixieView" pc="268438615" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="124" parent="globals/SimpleNixieView" pc="268438632" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="128" parent="globals/SimpleNixieView" pc="268438661" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="129" parent="globals/SimpleNixieView" pc="268438680" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="130" parent="globals/SimpleNixieView" pc="268438694" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="131" parent="globals/SimpleNixieView" pc="268438708" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="133" parent="globals/SimpleNixieView" pc="268438715" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="134" parent="globals/SimpleNixieView" pc="268438741" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="135" parent="globals/SimpleNixieView" pc="268438755" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="136" parent="globals/SimpleNixieView" pc="268438776" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="138" parent="globals/SimpleNixieView" pc="268438790" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="139" parent="globals/SimpleNixieView" pc="268438794" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="140" parent="globals/SimpleNixieView" pc="268438798" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="141" parent="globals/SimpleNixieView" pc="268438802" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="142" parent="globals/SimpleNixieView" pc="268438815" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="145" parent="globals/SimpleNixieView" pc="268438825" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="146" parent="globals/SimpleNixieView" pc="268438839" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="147" parent="globals/SimpleNixieView" pc="268438850" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="148" parent="globals/SimpleNixieView" pc="268438863" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="152" parent="globals/SimpleNixieView" pc="268438893" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="153" parent="globals/SimpleNixieView" pc="268438896" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="156" parent="globals/SimpleNixieView" pc="268438921" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="157" parent="globals/SimpleNixieView" pc="268438938" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="160" parent="globals/SimpleNixieView" pc="268438964" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="161" parent="globals/SimpleNixieView" pc="268438978" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="164" parent="globals/SimpleNixieView" pc="268439010" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="165" parent="globals/SimpleNixieView" pc="268439027" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="169" parent="globals/SimpleNixieView" pc="268439065" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="170" parent="globals/SimpleNixieView" pc="268439093" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="173" parent="globals/SimpleNixieView" pc="268439124" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="174" parent="globals/SimpleNixieView" pc="268439131" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="177" parent="globals/SimpleNixieView" pc="268439145" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="178" parent="globals/SimpleNixieView" pc="268439182" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="179" parent="globals/SimpleNixieView" pc="268439204" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="182" parent="globals/SimpleNixieView" pc="268439227" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="183" parent="globals/SimpleNixieView" pc="268439264" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="186" parent="globals/SimpleNixieView" pc="268439301" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="186" parent="globals/SimpleNixieView" pc="268439309" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="188" parent="globals/SimpleNixieView" pc="268439313" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="189" parent="globals/SimpleNixieView" pc="268439332" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="190" parent="globals/SimpleNixieView" pc="268439346" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="190" parent="globals/SimpleNixieView" pc="268439352" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="192" parent="globals/SimpleNixieView" pc="268439356" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="193" parent="globals/SimpleNixieView" pc="268439361" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="194" parent="globals/SimpleNixieView" pc="268439365" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="195" parent="globals/SimpleNixieView" pc="268439369" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="196" parent="globals/SimpleNixieView" pc="268439379" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="197" parent="globals/SimpleNixieView" pc="268439389" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="200" parent="globals/SimpleNixieView" pc="268439399" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="201" parent="globals/SimpleNixieView" pc="268439418" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="203" parent="globals/SimpleNixieView" pc="268439433" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="204" parent="globals/SimpleNixieView" pc="268439452" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="207" parent="globals/SimpleNixieView" pc="268439467" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieView.mc" id="25" lineNum="210" parent="globals/SimpleNixieView" pc="268439490" symbol="onUpdate"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="26" lineNum="106" parent="globals/SimpleNixieSettingsDelegate" pc="268439520" symbol="onBack"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="26" lineNum="107" parent="globals/SimpleNixieSettingsDelegate" pc="268439522" symbol="onBack"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="27" lineNum="76" parent="globals/SimpleNixieSettingsDelegate" pc="268439538" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="27" lineNum="77" parent="globals/SimpleNixieSettingsDelegate" pc="268439540" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="80" parent="globals/SimpleNixieSettingsDelegate" pc="268439553" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="81" parent="globals/SimpleNixieSettingsDelegate" pc="268439556" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="82" parent="globals/SimpleNixieSettingsDelegate" pc="268439565" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="83" parent="globals/SimpleNixieSettingsDelegate" pc="268439576" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="84" parent="globals/SimpleNixieSettingsDelegate" pc="268439580" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="85" parent="globals/SimpleNixieSettingsDelegate" pc="268439595" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="87" parent="globals/SimpleNixieSettingsDelegate" pc="268439626" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="88" parent="globals/SimpleNixieSettingsDelegate" pc="268439637" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="89" parent="globals/SimpleNixieSettingsDelegate" pc="268439641" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="90" parent="globals/SimpleNixieSettingsDelegate" pc="268439656" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="92" parent="globals/SimpleNixieSettingsDelegate" pc="268439687" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="93" parent="globals/SimpleNixieSettingsDelegate" pc="268439698" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="94" parent="globals/SimpleNixieSettingsDelegate" pc="268439702" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="95" parent="globals/SimpleNixieSettingsDelegate" pc="268439717" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="97" parent="globals/SimpleNixieSettingsDelegate" pc="268439748" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="98" parent="globals/SimpleNixieSettingsDelegate" pc="268439759" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="99" parent="globals/SimpleNixieSettingsDelegate" pc="268439792" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="100" parent="globals/SimpleNixieSettingsDelegate" pc="268439858" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="101" parent="globals/SimpleNixieSettingsDelegate" pc="268439869" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="28" lineNum="102" parent="globals/SimpleNixieSettingsDelegate" pc="268439902" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="29" lineNum="151" parent="globals/MetricPickerDelegate" pc="268439969" symbol="onBack"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="29" lineNum="152" parent="globals/MetricPickerDelegate" pc="268439971" symbol="onBack"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="30" lineNum="136" parent="globals/MetricPickerDelegate" pc="268439987" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="30" lineNum="137" parent="globals/MetricPickerDelegate" pc="268439989" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="30" lineNum="138" parent="globals/MetricPickerDelegate" pc="268440001" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="31" lineNum="141" parent="globals/MetricPickerDelegate" pc="268440011" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="31" lineNum="142" parent="globals/MetricPickerDelegate" pc="268440014" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="31" lineNum="143" parent="globals/MetricPickerDelegate" pc="268440023" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="31" lineNum="144" parent="globals/MetricPickerDelegate" pc="268440038" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="31" lineNum="147" parent="globals/MetricPickerDelegate" pc="268440061" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="31" lineNum="148" parent="globals/MetricPickerDelegate" pc="268440076" symbol="onSelect"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="8" parent="globals/SimpleNixieSettingsMenu" pc="268440092" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="9" parent="globals/SimpleNixieSettingsMenu" pc="268440095" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="12" parent="globals/SimpleNixieSettingsMenu" pc="268440151" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="13" parent="globals/SimpleNixieSettingsMenu" pc="268440154" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="14" parent="globals/SimpleNixieSettingsMenu" pc="268440169" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="15" parent="globals/SimpleNixieSettingsMenu" pc="268440188" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="15" parent="globals/SimpleNixieSettingsMenu" pc="268440194" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="17" parent="globals/SimpleNixieSettingsMenu" pc="268440204" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="18" parent="globals/SimpleNixieSettingsMenu" pc="268440237" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="21" parent="globals/SimpleNixieSettingsMenu" pc="268440279" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="22" parent="globals/SimpleNixieSettingsMenu" pc="268440282" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="23" parent="globals/SimpleNixieSettingsMenu" pc="268440297" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="24" parent="globals/SimpleNixieSettingsMenu" pc="268440316" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="24" parent="globals/SimpleNixieSettingsMenu" pc="268440322" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="26" parent="globals/SimpleNixieSettingsMenu" pc="268440332" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="27" parent="globals/SimpleNixieSettingsMenu" pc="268440365" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="30" parent="globals/SimpleNixieSettingsMenu" pc="268440407" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="31" parent="globals/SimpleNixieSettingsMenu" pc="268440410" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="32" parent="globals/SimpleNixieSettingsMenu" pc="268440425" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="33" parent="globals/SimpleNixieSettingsMenu" pc="268440444" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="33" parent="globals/SimpleNixieSettingsMenu" pc="268440450" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="35" parent="globals/SimpleNixieSettingsMenu" pc="268440460" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="36" parent="globals/SimpleNixieSettingsMenu" pc="268440493" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="39" parent="globals/SimpleNixieSettingsMenu" pc="268440535" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="40" parent="globals/SimpleNixieSettingsMenu" pc="268440539" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="41" parent="globals/SimpleNixieSettingsMenu" pc="268440554" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="42" parent="globals/SimpleNixieSettingsMenu" pc="268440573" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="42" parent="globals/SimpleNixieSettingsMenu" pc="268440579" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="44" parent="globals/SimpleNixieSettingsMenu" pc="268440589" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="45" parent="globals/SimpleNixieSettingsMenu" pc="268440622" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="48" parent="globals/SimpleNixieSettingsMenu" pc="268440671" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="49" parent="globals/SimpleNixieSettingsMenu" pc="268440675" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="50" parent="globals/SimpleNixieSettingsMenu" pc="268440690" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="51" parent="globals/SimpleNixieSettingsMenu" pc="268440709" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="51" parent="globals/SimpleNixieSettingsMenu" pc="268440715" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="53" parent="globals/SimpleNixieSettingsMenu" pc="268440725" symbol="initialize"/>
+        <entry filename="/Users/z0051syf/Library/CloudStorage/OneDrive-SiemensAG/Lechu/workspace/Lechu/GitHub/Lechu77/simple-nixie-watchface/source/SimpleNixieSettingsMenu.mc" id="32" lineNum="54" parent="globals/SimpleNixieSettingsMenu" pc="268440758" symbol="initialize"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="36" symbol="MetricOff"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="43" symbol="ShowGraphsTitle"/>
+        <entry field="true" id="42" symbol="ShowDateTitle"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry id="8389702" method="true" symbol="getHeartRateHistory"/>
+        <entry id="47" symbol="graph1Metric"/>
+        <entry id="6" object="true" symbol="MetricPickerMenu"/>
+        <entry id="48" symbol="graph2Metric"/>
+        <entry field="true" id="18" symbol="BgImage"/>
+        <entry id="8389800" method="true" symbol="getTemperatureHistory"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry id="8391839" method="true" symbol="getBodyBatteryHistory"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8389801" method="true" symbol="getPressureHistory"/>
+        <entry field="true" id="30" symbol="AppName"/>
+        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
+        <entry field="true" id="39" symbol="MetricStress"/>
+        <entry id="5" object="true" symbol="MetricPickerDelegate"/>
+        <entry field="true" id="35" symbol="MetricHR"/>
+        <entry id="4" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388631" module="true" symbol="Activity"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="44" symbol="showBattery"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry id="8390425" module="true" symbol="Properties"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="10" object="true" symbol="SimpleNixieView"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="37" symbol="MetricPress"/>
+        <entry field="true" id="12" symbol="&lt;globals/SimpleNixieView/&lt;&gt;_backgroundBitmap&gt;"/>
+        <entry field="true" id="17" symbol="&lt;globals/MetricPickerDelegate/&lt;&gt;_propertyKey&gt;"/>
+        <entry id="8391512" method="true" symbol="getOxygenSaturationHistory"/>
+        <entry id="46" symbol="showGraphs"/>
+        <entry id="8389802" method="true" symbol="getElevationHistory"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="31" symbol="Graph1MetricTitle"/>
+        <entry field="true" id="32" symbol="Graph2MetricTitle"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry field="true" id="34" symbol="MetricElev"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="14" symbol="&lt;globals/SimpleNixieView/&lt;&gt;_nixieBitmaps&gt;"/>
+        <entry id="16" method="true" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="19" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8391847" method="true" symbol="getStressHistory"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="45" symbol="showDate"/>
+        <entry field="true" id="29" symbol="Nixie9"/>
+        <entry field="true" id="28" symbol="Nixie8"/>
+        <entry field="true" id="27" symbol="Nixie7"/>
+        <entry field="true" id="26" symbol="Nixie6"/>
+        <entry field="true" id="25" symbol="Nixie5"/>
+        <entry field="true" id="24" symbol="Nixie4"/>
+        <entry field="true" id="23" symbol="Nixie3"/>
+        <entry field="true" id="22" symbol="Nixie2"/>
+        <entry field="true" id="21" symbol="Nixie1"/>
+        <entry field="true" id="20" symbol="Nixie0"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="41" symbol="ShowBatteryTitle"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="15" method="true" symbol="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;"/>
+        <entry id="9" object="true" symbol="SimpleNixieSettingsMenu"/>
+        <entry field="true" id="13" symbol="&lt;globals/SimpleNixieView/&lt;&gt;_isAod&gt;"/>
+        <entry id="8391703" method="true" symbol="getSettingsView"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389781" module="true" symbol="SensorHistory"/>
+        <entry field="true" id="38" symbol="MetricPulseOx"/>
+        <entry field="true" id="40" symbol="MetricTemp"/>
+        <entry id="8" object="true" symbol="SimpleNixieSettingsDelegate"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="8389642" symbol="title"/>
+        <entry id="7" object="true" symbol="SimpleNixieApp"/>
+        <entry field="true" id="33" symbol="MetricBodyBat"/>
+        <entry id="11" method="true" symbol="getMetricName"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435891" name="id" stackId="1" startPc="268435547"/>
+        <entry endPc="268435891" name="resId" stackId="2" startPc="268435558"/>
+        <entry arg="true" endPc="268436574" name="propertyKey" stackId="1" startPc="268435928"/>
+        <entry arg="true" endPc="268436574" name="title" stackId="2" startPc="268435928"/>
+        <entry endPc="268436573" name="currentMetric" stackId="3" startPc="268435931"/>
+        <entry endPc="268436004" name="val" stackId="4" startPc="268435976"/>
+        <entry arg="true" endPc="268437132" name="dc" stackId="1" startPc="268436687"/>
+        <entry arg="true" endPc="268437132" name="metric" stackId="2" startPc="268436687"/>
+        <entry arg="true" endPc="268437132" name="x" stackId="3" startPc="268436687"/>
+        <entry arg="true" endPc="268437132" name="y" stackId="4" startPc="268436687"/>
+        <entry arg="true" endPc="268437132" name="width" stackId="5" startPc="268436687"/>
+        <entry arg="true" endPc="268437132" name="height" stackId="6" startPc="268436687"/>
+        <entry arg="true" endPc="268437132" name="color" stackId="7" startPc="268436687"/>
+        <entry endPc="268437131" name="iter" stackId="8" startPc="268436690"/>
+        <entry arg="true" endPc="268437584" name="dc" stackId="1" startPc="268437155"/>
+        <entry arg="true" endPc="268438043" name="dc" stackId="1" startPc="268437607"/>
+        <entry arg="true" endPc="268438043" name="iter" stackId="2" startPc="268437607"/>
+        <entry arg="true" endPc="268438043" name="x" stackId="3" startPc="268437607"/>
+        <entry arg="true" endPc="268438043" name="y" stackId="4" startPc="268437607"/>
+        <entry arg="true" endPc="268438043" name="width" stackId="5" startPc="268437607"/>
+        <entry arg="true" endPc="268438043" name="height" stackId="6" startPc="268437607"/>
+        <entry arg="true" endPc="268438043" name="color" stackId="7" startPc="268437607"/>
+        <entry endPc="268438042" name="min" stackId="8" startPc="268437610"/>
+        <entry endPc="268438042" name="max" stackId="9" startPc="268437610"/>
+        <entry endPc="268438042" name="samples" stackId="10" startPc="268437610"/>
+        <entry endPc="268438042" name="count" stackId="11" startPc="268437610"/>
+        <entry endPc="268438042" name="sample" stackId="12" startPc="268437610"/>
+        <entry endPc="268437791" name="d" stackId="13" startPc="268437668"/>
+        <entry endPc="268437779" name="val" stackId="14" startPc="268437683"/>
+        <entry endPc="268438042" name="range" stackId="15" startPc="268437610"/>
+        <entry endPc="268438042" name="prevPx" stackId="16" startPc="268437610"/>
+        <entry endPc="268438042" name="prevPy" stackId="17" startPc="268437610"/>
+        <entry endPc="268438042" name="i" stackId="18" startPc="268437936"/>
+        <entry endPc="268438032" name="px" stackId="19" startPc="268437936"/>
+        <entry endPc="268438032" name="py" stackId="20" startPc="268437936"/>
+        <entry arg="true" endPc="268439519" name="dc" stackId="1" startPc="268438059"/>
+        <entry endPc="268439518" name="clockTime" stackId="2" startPc="268438062"/>
+        <entry endPc="268439518" name="hours" stackId="3" startPc="268438062"/>
+        <entry endPc="268439518" name="minutes" stackId="4" startPc="268438062"/>
+        <entry endPc="268439518" name="h1" stackId="5" startPc="268438062"/>
+        <entry endPc="268439518" name="h2" stackId="6" startPc="268438062"/>
+        <entry endPc="268439518" name="m1" stackId="7" startPc="268438062"/>
+        <entry endPc="268439518" name="m2" stackId="8" startPc="268438062"/>
+        <entry endPc="268439518" name="screenWidth" stackId="9" startPc="268438062"/>
+        <entry endPc="268439518" name="screenHeight" stackId="10" startPc="268438062"/>
+        <entry endPc="268439518" name="cx" stackId="11" startPc="268438062"/>
+        <entry endPc="268439518" name="lowerCenterY" stackId="12" startPc="268438062"/>
+        <entry endPc="268439518" name="imgW" stackId="13" startPc="268438062"/>
+        <entry endPc="268439518" name="w" stackId="14" startPc="268438062"/>
+        <entry endPc="268439518" name="h" stackId="15" startPc="268438062"/>
+        <entry endPc="268439518" name="colonW" stackId="16" startPc="268438062"/>
+        <entry endPc="268439518" name="totalW" stackId="17" startPc="268438062"/>
+        <entry endPc="268439518" name="vfdStartX" stackId="18" startPc="268438062"/>
+        <entry endPc="268439518" name="vfdStartY" stackId="19" startPc="268438062"/>
+        <entry endPc="268439518" name="primaryCol" stackId="20" startPc="268438062"/>
+        <entry endPc="268439518" name="aodOffsetX" stackId="21" startPc="268438062"/>
+        <entry endPc="268439518" name="aodOffsetY" stackId="22" startPc="268438062"/>
+        <entry endPc="268439518" name="frameWidth" stackId="23" startPc="268438062"/>
+        <entry endPc="268439518" name="frameHeight" stackId="24" startPc="268438062"/>
+        <entry endPc="268439518" name="frameY" stackId="25" startPc="268438062"/>
+        <entry endPc="268439518" name="showBatVal" stackId="26" startPc="268438062"/>
+        <entry endPc="268439518" name="showBattery" stackId="27" startPc="268438062"/>
+        <entry endPc="268438657" name="stats" stackId="28" startPc="268438376"/>
+        <entry endPc="268438657" name="batPct" stackId="29" startPc="268438376"/>
+        <entry endPc="268438657" name="batStr" stackId="30" startPc="268438376"/>
+        <entry endPc="268438657" name="batFont" stackId="31" startPc="268438376"/>
+        <entry endPc="268438657" name="batTextW" stackId="32" startPc="268438376"/>
+        <entry endPc="268438657" name="batIconW" stackId="33" startPc="268438376"/>
+        <entry endPc="268438657" name="batIconH" stackId="34" startPc="268438376"/>
+        <entry endPc="268438657" name="batGap" stackId="35" startPc="268438376"/>
+        <entry endPc="268438657" name="totalBatW" stackId="36" startPc="268438376"/>
+        <entry endPc="268438657" name="batStartX" stackId="37" startPc="268438376"/>
+        <entry endPc="268438657" name="batStartY" stackId="38" startPc="268438376"/>
+        <entry endPc="268438657" name="fillW" stackId="39" startPc="268438376"/>
+        <entry endPc="268438657" name="batTextY" stackId="40" startPc="268438376"/>
+        <entry endPc="268439518" name="showDateVal" stackId="41" startPc="268438062"/>
+        <entry endPc="268439518" name="showDate" stackId="42" startPc="268438062"/>
+        <entry endPc="268439061" name="dateTopY" stackId="43" startPc="268438708"/>
+        <entry endPc="268439061" name="dateInfo" stackId="44" startPc="268438708"/>
+        <entry endPc="268439061" name="dayName" stackId="45" startPc="268438708"/>
+        <entry endPc="268439061" name="dayNum" stackId="46" startPc="268438708"/>
+        <entry endPc="268439061" name="monthName" stackId="47" startPc="268438708"/>
+        <entry endPc="268439061" name="pillW" stackId="48" startPc="268438708"/>
+        <entry endPc="268439061" name="pillH" stackId="49" startPc="268438708"/>
+        <entry endPc="268439061" name="gap" stackId="50" startPc="268438708"/>
+        <entry endPc="268439061" name="totalDateW" stackId="51" startPc="268438708"/>
+        <entry endPc="268439061" name="dateStartX" stackId="52" startPc="268438708"/>
+        <entry endPc="268438892" name="i" stackId="53" startPc="268438850"/>
+        <entry endPc="268438882" name="px" stackId="54" startPc="268438850"/>
+        <entry endPc="268439061" name="font" stackId="55" startPc="268438708"/>
+        <entry endPc="268439061" name="textY" stackId="56" startPc="268438708"/>
+        <entry endPc="268439518" name="nixieGlowCol" stackId="57" startPc="268438062"/>
+        <entry endPc="268439518" name="colonX" stackId="58" startPc="268438062"/>
+        <entry endPc="268439518" name="showGraphsVal" stackId="59" startPc="268438062"/>
+        <entry endPc="268439518" name="showGraphs" stackId="60" startPc="268438062"/>
+        <entry endPc="268439518" name="graphWidth" stackId="61" startPc="268438062"/>
+        <entry endPc="268439518" name="graphHeight" stackId="62" startPc="268438062"/>
+        <entry endPc="268439518" name="btmGap" stackId="63" startPc="268438062"/>
+        <entry endPc="268439518" name="btmTotalW" stackId="64" startPc="268438062"/>
+        <entry endPc="268439518" name="btmStartX" stackId="65" startPc="268438062"/>
+        <entry endPc="268439518" name="btmY" stackId="66" startPc="268438062"/>
+        <entry endPc="268439518" name="g1Val" stackId="67" startPc="268438062"/>
+        <entry endPc="268439518" name="graph1Metric" stackId="68" startPc="268438062"/>
+        <entry endPc="268439518" name="g2Val" stackId="69" startPc="268438062"/>
+        <entry endPc="268439518" name="graph2Metric" stackId="70" startPc="268438062"/>
+        <entry arg="true" endPc="268439968" name="item" stackId="1" startPc="268439553"/>
+        <entry endPc="268439967" name="id" stackId="2" startPc="268439556"/>
+        <entry endPc="268439622" name="toggleItem" stackId="3" startPc="268439576"/>
+        <entry endPc="268439683" name="toggleItem" stackId="4" startPc="268439637"/>
+        <entry endPc="268439744" name="toggleItem" stackId="5" startPc="268439698"/>
+        <entry endPc="268439854" name="title" stackId="6" startPc="268439759"/>
+        <entry endPc="268439964" name="title" stackId="7" startPc="268439869"/>
+        <entry arg="true" endPc="268440010" name="propertyKey" stackId="1" startPc="268439987"/>
+        <entry arg="true" endPc="268440091" name="item" stackId="1" startPc="268440011"/>
+        <entry endPc="268440090" name="selected" stackId="2" startPc="268440014"/>
+        <entry endPc="268440806" name="showBatt" stackId="1" startPc="268440095"/>
+        <entry endPc="268440200" name="val" stackId="2" startPc="268440169"/>
+        <entry endPc="268440806" name="battLabel" stackId="3" startPc="268440095"/>
+        <entry endPc="268440806" name="showDate" stackId="4" startPc="268440095"/>
+        <entry endPc="268440328" name="val" stackId="5" startPc="268440297"/>
+        <entry endPc="268440806" name="dateLabel" stackId="6" startPc="268440095"/>
+        <entry endPc="268440806" name="showGraphs" stackId="7" startPc="268440095"/>
+        <entry endPc="268440456" name="val" stackId="8" startPc="268440425"/>
+        <entry endPc="268440806" name="graphsLabel" stackId="9" startPc="268440095"/>
+        <entry endPc="268440806" name="graph1Metric" stackId="10" startPc="268440095"/>
+        <entry endPc="268440585" name="val" stackId="11" startPc="268440554"/>
+        <entry endPc="268440806" name="g1Label" stackId="12" startPc="268440095"/>
+        <entry endPc="268440806" name="graph2Metric" stackId="13" startPc="268440095"/>
+        <entry endPc="268440721" name="val" stackId="14" startPc="268440690"/>
+        <entry endPc="268440806" name="g2Label" stackId="15" startPc="268440095"/>
+    </localVars>
+    <deviceInfo deviceVersion="692caadfda586909675dab78bab767f5d32652fd" partNumber="006-B4631-00"/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MetricBodyBat"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowBatteryTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MetricPress"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MetricHR"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MetricOff"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Graph1MetricTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MetricPulseOx"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Nixie1"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Nixie2"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Nixie0"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Nixie5"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Nixie6"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Nixie3"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Nixie4"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Nixie9"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowGraphsTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Nixie7"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Nixie8"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Graph2MetricTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowDateTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MetricElev"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="BgImage"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MetricTemp"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MetricStress"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="49" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/MetricPickerMenu" offset="161" parentId="globals" symbolId="MetricPickerMenu" type="class"/>
+        <dataEntry label="globals/SimpleNixieApp" offset="205" parentId="globals" symbolId="SimpleNixieApp" type="class"/>
+        <dataEntry label="globals/SimpleNixieView" offset="294" parentId="globals" symbolId="SimpleNixieView" type="class"/>
+        <dataEntry label="globals/Rez" offset="437" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/SimpleNixieSettingsDelegate" offset="481" parentId="globals" symbolId="SimpleNixieSettingsDelegate" type="class"/>
+        <dataEntry label="globals/MetricPickerDelegate" offset="543" parentId="globals" symbolId="MetricPickerDelegate" type="class"/>
+        <dataEntry label="globals/SimpleNixieSettingsMenu" offset="614" parentId="globals" symbolId="SimpleNixieSettingsMenu" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="658" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="792" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435471" name="&lt;init&gt;" parent="MetricPickerMenu" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435483" name="&lt;init&gt;" parent="SimpleNixieApp" startPc="268435472">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435504" name="getApp" startPc="268435484">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435526" name="&lt;init&gt;" parent="SimpleNixieView" startPc="268435505">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435546" name="&lt;init&gt;" parent="Rez" startPc="268435527">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435891" name="getMetricName" startPc="268435547">
+            <param id="id"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435903" name="&lt;init&gt;" parent="SimpleNixieSettingsDelegate" startPc="268435892">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435915" name="&lt;init&gt;" parent="MetricPickerDelegate" startPc="268435904">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435927" name="&lt;init&gt;" parent="SimpleNixieSettingsMenu" startPc="268435916">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436574" name="initialize" parent="MetricPickerMenu" startPc="268435928">
+            <param id="propertyKey"/>
+            <param id="title"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436577" name="onStart" parent="SimpleNixieApp" startPc="268436575">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436626" name="getSettingsView" parent="SimpleNixieApp" startPc="268436578">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436640" name="onSettingsChanged" parent="SimpleNixieApp" startPc="268436627">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436668" name="getInitialView" parent="SimpleNixieApp" startPc="268436641">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436683" name="initialize" parent="SimpleNixieApp" startPc="268436669">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436686" name="onStop" parent="SimpleNixieApp" startPc="268436684">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437132" name="&lt;globals/SimpleNixieView/&lt;&gt;drawMetricGraph&gt;" parent="SimpleNixieView" startPc="268436687">
+            <param id="dc"/>
+            <param id="metric"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="width"/>
+            <param id="height"/>
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437154" name="onExitSleep" parent="SimpleNixieView" startPc="268437133">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="SimpleNixieView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437584" name="onLayout" parent="SimpleNixieView" startPc="268437155">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437606" name="onEnterSleep" parent="SimpleNixieView" startPc="268437585">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438043" name="&lt;globals/SimpleNixieView/&lt;&gt;drawHistoryGraph&gt;" parent="SimpleNixieView" startPc="268437607">
+            <param id="dc"/>
+            <param id="iter"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="width"/>
+            <param id="height"/>
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438058" name="initialize" parent="SimpleNixieView" startPc="268438044">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="SimpleNixieView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439519" name="onUpdate" parent="SimpleNixieView" startPc="268438059">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439537" name="onBack" parent="SimpleNixieSettingsDelegate" startPc="268439520">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439552" name="initialize" parent="SimpleNixieSettingsDelegate" startPc="268439538">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439968" name="onSelect" parent="SimpleNixieSettingsDelegate" startPc="268439553">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439986" name="onBack" parent="MetricPickerDelegate" startPc="268439969">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440010" name="initialize" parent="MetricPickerDelegate" startPc="268439987">
+            <param id="propertyKey"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440091" name="onSelect" parent="MetricPickerDelegate" startPc="268440011">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440807" name="initialize" parent="SimpleNixieSettingsMenu" startPc="268440092">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

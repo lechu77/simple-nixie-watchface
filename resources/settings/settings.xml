@@ -1,0 +1,39 @@
+<settings>
+    <setting propertyKey="@Properties.showBattery" title="@Strings.ShowBatteryTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.showDate" title="@Strings.ShowDateTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.showGraphs" title="@Strings.ShowGraphsTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.graph1Metric" title="@Strings.Graph1MetricTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.MetricOff</listEntry>
+            <listEntry value="1">@Strings.MetricHR</listEntry>
+            <listEntry value="2">@Strings.MetricElev</listEntry>
+            <listEntry value="3">@Strings.MetricPress</listEntry>
+            <listEntry value="4">@Strings.MetricTemp</listEntry>
+            <listEntry value="5">@Strings.MetricBodyBat</listEntry>
+            <listEntry value="6">@Strings.MetricStress</listEntry>
+            <listEntry value="7">@Strings.MetricPulseOx</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.graph2Metric" title="@Strings.Graph2MetricTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.MetricOff</listEntry>
+            <listEntry value="1">@Strings.MetricHR</listEntry>
+            <listEntry value="2">@Strings.MetricElev</listEntry>
+            <listEntry value="3">@Strings.MetricPress</listEntry>
+            <listEntry value="4">@Strings.MetricTemp</listEntry>
+            <listEntry value="5">@Strings.MetricBodyBat</listEntry>
+            <listEntry value="6">@Strings.MetricStress</listEntry>
+            <listEntry value="7">@Strings.MetricPulseOx</listEntry>
+        </settingConfig>
+    </setting>
+</settings>
