@@ -1,5 +1,38 @@
 {
   "settings" : [ {
+    "key" : "themeStyle",
+    "valueType" : "number",
+    "defaultValue" : 0,
+    "configTitle" : "ThemeTitle",
+    "configPrompt" : null,
+    "configType" : "list",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : [ {
+      "display" : "Theme0",
+      "value" : 0
+    }, {
+      "display" : "Theme1",
+      "value" : 1
+    }, {
+      "display" : "Theme2",
+      "value" : 2
+    }, {
+      "display" : "Theme3",
+      "value" : 3
+    }, {
+      "display" : "Theme4",
+      "value" : 4
+    }, {
+      "display" : "Theme5",
+      "value" : 5
+    } ],
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  }, {
     "key" : "showBattery",
     "valueType" : "boolean",
     "defaultValue" : true,
@@ -127,11 +160,18 @@
   "languages" : {
     "spa" : {
       "Graph2MetricTitle" : "Gráfico Derecho",
+      "ThemeTitle" : "Color del Tema",
       "MetricOff" : "Apagado",
       "MetricHR" : "Frecuencia Cardíaca",
+      "Theme0" : "Ámbar Nixie",
+      "Theme1" : "Cian",
       "MetricTemp" : "Temperatura",
       "MetricPulseOx" : "Pulsioximetría",
+      "Theme2" : "Verde",
+      "Theme3" : "Ámbar",
+      "Theme4" : "Blanco",
       "MetricStress" : "Estrés",
+      "Theme5" : "Siemens",
       "MetricElev" : "Elevación",
       "AppName" : "Simple Nixie",
       "ShowBatteryTitle" : "Mostrar Batería",
@@ -143,11 +183,18 @@
     },
     "valyrian" : {
       "Graph2MetricTitle" : "Right Graph",
+      "ThemeTitle" : "Theme Color",
       "MetricOff" : "Off",
       "MetricHR" : "Heart Rate",
+      "Theme0" : "Nixie Amber",
+      "Theme1" : "Cyan",
       "MetricTemp" : "Temperature",
       "MetricPulseOx" : "Pulse Ox",
+      "Theme2" : "Green",
+      "Theme3" : "Amber",
+      "Theme4" : "White",
       "MetricStress" : "Stress",
+      "Theme5" : "Siemens",
       "MetricElev" : "Elevation",
       "AppName" : "Simple Nixie",
       "ShowBatteryTitle" : "Show Battery",
@@ -159,11 +206,18 @@
     },
     "eng" : {
       "Graph2MetricTitle" : "Right Graph",
+      "ThemeTitle" : "Theme Color",
       "MetricOff" : "Off",
       "MetricHR" : "Heart Rate",
+      "Theme0" : "Nixie Amber",
+      "Theme1" : "Cyan",
       "MetricTemp" : "Temperature",
       "MetricPulseOx" : "Pulse Ox",
+      "Theme2" : "Green",
+      "Theme3" : "Amber",
+      "Theme4" : "White",
       "MetricStress" : "Stress",
+      "Theme5" : "Siemens",
       "MetricElev" : "Elevation",
       "AppName" : "Simple Nixie",
       "ShowBatteryTitle" : "Show Battery",

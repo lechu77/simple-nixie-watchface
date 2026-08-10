@@ -17,6 +17,27 @@ class SimpleNixieView extends WatchUi.WatchFace {
         WatchFace.initialize();
     }
 
+    function getThemeColor(themeId as Number) as Number {
+        switch(themeId) {
+            case 1: return 0x5ED7D2; // Cyan
+            case 2: return 0x43E038; // Green
+            case 3: return 0xFFB000; // Amber
+            case 4: return 0xFFFFFF; // White
+            case 5: return 0x00A3A3; // Siemens
+            case 0:
+            default:
+                return 0xFF7A00; // Nixie Amber
+        }
+    }
+
+    function getThemeGlowColor(themeId as Number) as Number {
+        switch(themeId) {
+            case 0: return 0xFF9900; // Nixie Amber Glow
+            case 3: return 0xFFC000; // Amber Glow
+            default: return getThemeColor(themeId); // Others don't need a distinct glow color
+        }
+    }
+
     // Load your resources here
     function onLayout(dc as Dc) as Void {
         _backgroundBitmap = WatchUi.loadResource(Rez.Drawables.BgImage) as WatchUi.BitmapResource;
@@ -73,7 +94,11 @@ class SimpleNixieView extends WatchUi.WatchFace {
         var vfdStartX = cx - (totalW / 2);
         var vfdStartY = lowerCenterY - (h / 2);
         
-        var primaryCol = 0xFF7A00; // Correct Theme 10 Amber color
+        var themeVal = Application.Properties.getValue("themeStyle");
+        var themeId = (themeVal != null) ? themeVal as Number : 0;
+        
+        var primaryCol = getThemeColor(themeId); 
+        var nixieGlowCol = getThemeGlowColor(themeId);
 
         // AOD Burn-in Offset
         var aodOffsetX = 0;
@@ -169,8 +194,7 @@ class SimpleNixieView extends WatchUi.WatchFace {
         dc.drawBitmap(vfdStartX + aodOffsetX, vfdStartY + aodOffsetY, _nixieBitmaps[h1]);
         dc.drawBitmap(vfdStartX + w + aodOffsetX, vfdStartY + aodOffsetY, _nixieBitmaps[h2]);
         
-        // Draw simple Amber colon (closer to Nixie filament color)
-        var nixieGlowCol = 0xFF9900; // More yellowish orange for the glow
+        // Draw simple colon (color matched to theme)
         dc.setColor(nixieGlowCol, Graphics.COLOR_TRANSPARENT);
         // Calculate exact center between the right edge of H2 and left edge of M1
         // (subtract 6 pixels because the visual center of the edited tubes is slightly offset)

@@ -16,4 +16,12 @@
     <string id="MetricBodyBat">Body Battery</string>
     <string id="MetricStress">Stress</string>
     <string id="MetricPulseOx">Pulse Ox</string>
+
+    <string id="ThemeTitle">Theme Color</string>
+    <string id="Theme0">Nixie Amber</string>
+    <string id="Theme1">Cyan</string>
+    <string id="Theme2">Green</string>
+    <string id="Theme3">Amber</string>
+    <string id="Theme4">White</string>
+    <string id="Theme5">Siemens</string>
 </resources>

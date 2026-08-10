@@ -22,11 +22,18 @@ module Rez {
 
     module Strings {
         (:initialized) var Graph2MetricTitle as ResourceId;
+        (:initialized) var ThemeTitle as ResourceId;
         (:initialized) var MetricOff as ResourceId;
         (:initialized) var MetricHR as ResourceId;
+        (:initialized) var Theme0 as ResourceId;
+        (:initialized) var Theme1 as ResourceId;
         (:initialized) var MetricTemp as ResourceId;
         (:initialized) var MetricPulseOx as ResourceId;
+        (:initialized) var Theme2 as ResourceId;
+        (:initialized) var Theme3 as ResourceId;
+        (:initialized) var Theme4 as ResourceId;
         (:initialized) var MetricStress as ResourceId;
+        (:initialized) var Theme5 as ResourceId;
         (:initialized) var MetricElev as ResourceId;
         (:initialized) var AppName as ResourceId;
         (:initialized) var ShowBatteryTitle as ResourceId;

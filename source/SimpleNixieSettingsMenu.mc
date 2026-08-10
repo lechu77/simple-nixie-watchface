@@ -8,6 +8,15 @@ class SimpleNixieSettingsMenu extends WatchUi.Menu2 {
     function initialize() {
         Menu2.initialize({:title => WatchUi.loadResource(Rez.Strings.AppName) as String});
 
+        // 0. Theme Color
+        var themeStyle = 0;
+        if (Toybox.Application has :Properties) {
+            var val = Toybox.Application.Properties.getValue("themeStyle");
+            if (val != null) { themeStyle = val as Number; }
+        }
+        var themeLabel = WatchUi.loadResource(Rez.Strings.ThemeTitle) as String;
+        addItem(new WatchUi.MenuItem(themeLabel, getThemeName(themeStyle), :themeStyle, null));
+
         // 1. Show Battery
         var showBatt = true;
         if (Toybox.Application has :Properties) {
@@ -55,6 +64,19 @@ class SimpleNixieSettingsMenu extends WatchUi.Menu2 {
     }
 }
 
+function getThemeName(id as Number) as String {
+    var resId = Rez.Strings.Theme0;
+    switch(id) {
+        case 0: resId = Rez.Strings.Theme0; break;
+        case 1: resId = Rez.Strings.Theme1; break;
+        case 2: resId = Rez.Strings.Theme2; break;
+        case 3: resId = Rez.Strings.Theme3; break;
+        case 4: resId = Rez.Strings.Theme4; break;
+        case 5: resId = Rez.Strings.Theme5; break;
+    }
+    return WatchUi.loadResource(resId) as String;
+}
+
 function getMetricName(id as Number) as String {
     var resId = Rez.Strings.MetricOff;
     switch(id) {
@@ -94,6 +116,9 @@ class SimpleNixieSettingsDelegate extends WatchUi.Menu2InputDelegate {
             if (Toybox.Application has :Properties) {
                 Toybox.Application.Properties.setValue("showGraphs", toggleItem.isEnabled());
             }
+        } else if (id == :themeStyle) {
+            var title = WatchUi.loadResource(Rez.Strings.ThemeTitle) as String;
+            WatchUi.pushView(new ThemePickerMenu(title), new ThemePickerDelegate(), WatchUi.SLIDE_LEFT);
         } else if (id == :graph1Metric) {
             var title = WatchUi.loadResource(Rez.Strings.Graph1MetricTitle) as String;
             WatchUi.pushView(new MetricPickerMenu("graph1Metric", title), new MetricPickerDelegate("graph1Metric"), WatchUi.SLIDE_LEFT);
@@ -142,6 +167,46 @@ class MetricPickerDelegate extends WatchUi.Menu2InputDelegate {
         var selected = item.getId() as Number;
         if (Toybox.Application has :Properties) {
             Toybox.Application.Properties.setValue(_propertyKey, selected);
+        }
+        // Return all the way to the watchface
+        WatchUi.popView(WatchUi.SLIDE_RIGHT);
+        WatchUi.popView(WatchUi.SLIDE_RIGHT);
+    }
+    
+    function onBack() as Void {
+        WatchUi.popView(WatchUi.SLIDE_RIGHT);
+    }
+}
+
+// Reusable Sub-menu listing all themes
+class ThemePickerMenu extends WatchUi.Menu2 {
+    function initialize(title as String) {
+        Menu2.initialize({:title => title});
+        
+        var currentTheme = 0;
+        if (Toybox.Application has :Properties) {
+            var val = Toybox.Application.Properties.getValue("themeStyle");
+            if (val != null) { currentTheme = val as Number; }
+        }
+        
+        addItem(new WatchUi.ToggleMenuItem(WatchUi.loadResource(Rez.Strings.Theme0) as String, null, 0, currentTheme == 0, null));
+        addItem(new WatchUi.ToggleMenuItem(WatchUi.loadResource(Rez.Strings.Theme1) as String, null, 1, currentTheme == 1, null));
+        addItem(new WatchUi.ToggleMenuItem(WatchUi.loadResource(Rez.Strings.Theme2) as String, null, 2, currentTheme == 2, null));
+        addItem(new WatchUi.ToggleMenuItem(WatchUi.loadResource(Rez.Strings.Theme3) as String, null, 3, currentTheme == 3, null));
+        addItem(new WatchUi.ToggleMenuItem(WatchUi.loadResource(Rez.Strings.Theme4) as String, null, 4, currentTheme == 4, null));
+        addItem(new WatchUi.ToggleMenuItem(WatchUi.loadResource(Rez.Strings.Theme5) as String, null, 5, currentTheme == 5, null));
+    }
+}
+
+class ThemePickerDelegate extends WatchUi.Menu2InputDelegate {
+    function initialize() {
+        Menu2InputDelegate.initialize();
+    }
+    
+    function onSelect(item as WatchUi.MenuItem) as Void {
+        var selected = item.getId() as Number;
+        if (Toybox.Application has :Properties) {
+            Toybox.Application.Properties.setValue("themeStyle", selected);
         }
         // Return all the way to the watchface
         WatchUi.popView(WatchUi.SLIDE_RIGHT);

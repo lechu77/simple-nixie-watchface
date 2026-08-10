@@ -16,4 +16,12 @@
     <string id="MetricBodyBat">Body Battery</string>
     <string id="MetricStress">Estrés</string>
     <string id="MetricPulseOx">Pulsioximetría</string>
+
+    <string id="ThemeTitle">Color del Tema</string>
+    <string id="Theme0">Ámbar Nixie</string>
+    <string id="Theme1">Cian</string>
+    <string id="Theme2">Verde</string>
+    <string id="Theme3">Ámbar</string>
+    <string id="Theme4">Blanco</string>
+    <string id="Theme5">Siemens</string>
 </resources>
