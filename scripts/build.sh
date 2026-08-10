@@ -62,6 +62,8 @@ echo "  Output: $OUTPUT_PRG"
 
 if [ -f "$OUTPUT_PRG" ]; then
     echo "Build successful! Binary created at: $OUTPUT_PRG"
+    # Clean up Garmin compiler junk files
+    rm -f "$OUTPUT_DIR"/*.json "$OUTPUT_DIR"/*.xml 2>/dev/null || true
 else
     echo "Build failed!"
     exit 1

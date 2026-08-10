@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-# REACTOR Garmin Connect IQ Watch Face Release Script
+# Simple Nixie Garmin Connect IQ Watch Face Release Script
 # Builds an .iq package for upload to the Connect IQ Store
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -50,7 +50,7 @@ OUTPUT_IQ="$OUTPUT_DIR/${PROJECT_NAME}.iq"
 
 mkdir -p "$OUTPUT_DIR"
 
-echo "Building release package (reactor.iq) for Connect IQ Store..."
+echo "Building release package (${PROJECT_NAME}.iq) for Connect IQ Store..."
 echo "  Compiler: $MONKEYC"
 echo "  Output: $OUTPUT_IQ"
 
@@ -66,6 +66,8 @@ echo "  Output: $OUTPUT_IQ"
 if [ -f "$OUTPUT_IQ" ]; then
     echo "Release build successful! Package created at: $OUTPUT_IQ"
     echo "You can now upload this file to the Garmin Connect IQ Developer Dashboard."
+    # Clean up Garmin compiler junk files
+    rm -f "$OUTPUT_DIR"/*.json "$OUTPUT_DIR"/*.xml 2>/dev/null || true
 else
     echo "Build failed!"
     exit 1
