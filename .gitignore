@@ -1,0 +1,7 @@
+# Garmin Connect IQ Build Artifacts
+bin/
+gen/
+*.prg
+*.iq
+*.SET
+.DS_Store
