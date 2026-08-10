@@ -2,6 +2,16 @@
 
 **Simple Nixie** is a premium Garmin Connect IQ watch face focused entirely on the beautiful gas-discharge glow aesthetic of Nixie tubes. Built for high-res AMOLED displays (like Fenix 8, Epix 2), this watch face mimics vintage hardware with a stunning illusion of 3D depth, while keeping a minimalist and battery-friendly profile.
 
+## Screenshots
+
+| Nixie Amber (Default) | Cyan | Green |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/nixie_amber.png" width="250"> | <img src="assets/screenshots/cyan.png" width="250"> | <img src="assets/screenshots/green.png" width="250"> |
+
+| Amber | White | Siemens Blue |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/amber.png" width="250"> | <img src="assets/screenshots/white.png" width="250"> | <img src="assets/screenshots/siemens.png" width="250"> |
+
 ## Features
 
 - **Absolute Focus on Visuals**: Massive, highly detailed Nixie tube digits dominate the screen.
