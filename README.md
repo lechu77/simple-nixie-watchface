@@ -1,5 +1,7 @@
 # Simple Nixie Watchface 🕰️
 
+<img src="assets/hero.png" width="100%">
+
 **Simple Nixie** is a premium Garmin Connect IQ watch face focused entirely on the beautiful gas-discharge glow aesthetic of Nixie tubes. Built for high-res AMOLED displays (like Fenix 8, Epix 2), this watch face mimics vintage hardware with a stunning illusion of 3D depth, while keeping a minimalist and battery-friendly profile.
 
 ## Screenshots
