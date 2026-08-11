@@ -63,6 +63,14 @@ class SimpleNixieView extends WatchUi.WatchFace {
         dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_BLACK);
         dc.clear();
         
+        if (_isAod) {
+            var enableAodVal = Application.Properties.getValue("enableAod");
+            var enableAod = (enableAodVal != null) ? enableAodVal as Boolean : true;
+            if (!enableAod) {
+                return; // User disabled AOD, leave screen pure black
+            }
+        }
+        
         if (!_isAod && _backgroundBitmap != null) {
             dc.drawBitmap(0, 0, _backgroundBitmap as WatchUi.BitmapResource);
         }

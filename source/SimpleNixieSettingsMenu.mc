@@ -17,7 +17,16 @@ class SimpleNixieSettingsMenu extends WatchUi.Menu2 {
         var themeLabel = WatchUi.loadResource(Rez.Strings.ThemeTitle) as String;
         addItem(new WatchUi.MenuItem(themeLabel, getThemeName(themeStyle), :themeStyle, null));
 
-        // 1. Show Battery
+        // 1. Enable AOD
+        var enableAod = true;
+        if (Toybox.Application has :Properties) {
+            var val = Toybox.Application.Properties.getValue("enableAod");
+            if (val != null) { enableAod = val as Boolean; }
+        }
+        var aodLabel = WatchUi.loadResource(Rez.Strings.EnableAodTitle) as String;
+        addItem(new WatchUi.ToggleMenuItem(aodLabel, null, :enableAod, enableAod, null));
+
+        // 2. Show Battery
         var showBatt = true;
         if (Toybox.Application has :Properties) {
             var val = Toybox.Application.Properties.getValue("showBattery");
@@ -105,6 +114,11 @@ class SimpleNixieSettingsDelegate extends WatchUi.Menu2InputDelegate {
             var toggleItem = item as WatchUi.ToggleMenuItem;
             if (Toybox.Application has :Properties) {
                 Toybox.Application.Properties.setValue("showBattery", toggleItem.isEnabled());
+            }
+        } else if (id == :enableAod) {
+            var toggleItem = item as WatchUi.ToggleMenuItem;
+            if (Toybox.Application has :Properties) {
+                Toybox.Application.Properties.setValue("enableAod", toggleItem.isEnabled());
             }
         } else if (id == :showDate) {
             var toggleItem = item as WatchUi.ToggleMenuItem;

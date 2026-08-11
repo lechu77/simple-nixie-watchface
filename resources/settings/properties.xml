@@ -2,6 +2,7 @@
     <!-- 0: Default Nixie -->
     <property id="themeStyle" type="number">0</property>
     
+    <property id="enableAod" type="boolean">true</property>
     <property id="showBattery" type="boolean">true</property>
     <property id="showDate" type="boolean">true</property>
     <property id="showGraphs" type="boolean">true</property>

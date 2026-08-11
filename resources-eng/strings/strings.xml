@@ -1,6 +1,7 @@
 <resources>
     <string id="AppName">Simple Nixie</string>
 
+    <string id="EnableAodTitle">Always On Display</string>
     <string id="ShowBatteryTitle">Show Battery</string>
     <string id="ShowDateTitle">Show Date</string>
     <string id="ShowGraphsTitle">Show Graphs</string>
