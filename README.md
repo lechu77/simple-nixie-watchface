@@ -14,6 +14,10 @@
 |:---:|:---:|:---:|
 | <img src="assets/screenshots/amber.png" width="250"> | <img src="assets/screenshots/white.png" width="250"> | <img src="assets/screenshots/siemens.png" width="250"> |
 
+| AOD Mode | Battery Only | Date Only |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/AOD.png" width="250"> | <img src="assets/screenshots/Batt Only.png" width="250"> | <img src="assets/screenshots/Date Only.png" width="250"> |
+
 ## Features
 
 - **Absolute Focus on Visuals**: Massive, highly detailed Nixie tube digits dominate the screen.
